@@ -8,7 +8,7 @@ Run `python3 -m http.server 8000` from this directory, then open http://localhos
 
 ## Edit content
 
-- `index.html`: introduction, games, selected repositories, older projects and contact links.
+- `index.html`: introduction, games, selected repositories, research and publications, older projects and contact links.
 - `cv.html`: selected experience, with print styles. The print button opens the browser's print dialog, where visitors can save a PDF.
 - `styles.css`: responsive layout, colours, typography and print styles.
 - `script.js`: repository filtering, print button and footer year. Content and links work without JavaScript.
@@ -31,3 +31,17 @@ The initial page uses public project descriptions and credits. Employment dates 
 - Game covers from each game's official Steam store assets: Super Hexagon (221640), Rumu (723270), Death Squared (471810).
 
 Fast & Furious is not listed yet: the exact title, role and dates need confirmation.
+
+## Publications and research citations
+
+The research section lists 10 co-authored conference/workshop publications from 2012–2014. Three are featured and seven are in a native HTML disclosure. `assets/publications.bib` contains all 10 records for citation managers. Publication years describe the papers, not employment dates.
+
+Metadata was checked on 10 November 2026 against publisher-deposited [Crossref records](https://api.crossref.org/works?filter=prefix:10.1145&query.author=Daniel%20Rosser&rows=20), the [SIGGRAPH Asia programme](https://sa2013.siggraph.org/en/attendees/technical-briefs/session/briefs/58.html), [UTS Games Studio](https://www.gamesstudio.org/publication/copyme-portable-real-time-feedback-expression-recognition-game-children), and the two FDG 2014 papers linked in the bibliography. Full subtitles are retained; some Crossref records shorten titles to CopyMe or BeFaced.
+
+Verified later citations:
+
+- [The Meme Quiz (Tuite & Kemelmacher, FDG 2015)](https://grail.cs.washington.edu/wp-content/uploads/2015/08/tuite2015tmq.pdf), section 3 and reference 22: discusses BeFaced and cites *A game to crowdsource data for affective computing* (2014).
+- [Corneanu et al., IEEE TPAMI (2016)](https://doi.org/10.1109/TPAMI.2016.2515606), reference 46: cites the 2012 player-experience feasibility study. [Author copy](https://cipriancorneanu.github.io/files/corneanu2016survey.pdf).
+- [De Belen et al., Translational Psychiatry (2020)](https://doi.org/10.1038/s41398-020-01015-w), references 54–55: cites the two CHI 2014 CopyMe papers.
+
+The section describes the intended machine-learning data collection role of BeFaced and documented citation relationships. It does not claim that a named later model was trained on the dataset. No citation totals are displayed because coverage varies by index and changes over time.
