@@ -25,6 +25,7 @@ The page combines public project descriptions and credits with owner-provided 20
 - [Rumu credits](https://www.mobygames.com/game/99711/rumu/credits/windows/): published Senior Game Programmer credit; Dan's supplied CVs identify his lead programming responsibilities.
 - [One4Seven profile](https://bandcamp.com/one4seven): self-reported work on Death Squared. Specific contribution and dates should be expanded with Dan's own details.
 - [LinkedIn](https://au.linkedin.com/in/dan-rosser-31b37926): Freddy's Pass Off and CopyMe project descriptions.
+- [EyeJack — Freddy's Pass Off](https://www.eyejack.io/projects/freddys-pass-off): Channel 9 / Brad Fittler project description and portfolio artwork. The historical App Store ID is `661017191`, preserved in [ofxCocosDenshion's README](https://github.com/danoli3/ofxCocosDenshion#working-in-live-ios-projects). Apple's Australian listing returned HTTP 404 when checked on 10 November 2026, so the portfolio links to the project page and describes its App Store release in the past tense.
 - [BeFaced publication](https://opus.lib.uts.edu.au/handle/10453/41917): research authorship.
 - [Australian War Memorial project](https://www.holly.co.nz/work/australian-war-memorial-first-world-war-galleries-redevelopment-awm-tablets): interactive developer credit.
 - Repository descriptions linked directly from each open-source entry.
