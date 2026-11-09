@@ -30,7 +30,7 @@ The initial page uses public project descriptions and credits. Employment dates 
 - Repository descriptions linked directly from each open-source entry.
 - Game covers from each game's official Steam store assets: Super Hexagon (221640), Rumu (723270), Death Squared (471810).
 
-Fast & Furious is not listed yet: the exact title, role and dates need confirmation.
+Fast & Furious Takedown is featured with Dan's directly supplied **Lead Game Developer** credit. The [official launch trailer from The Fast Saga](https://www.youtube.com/watch?v=sXooOX17FNs) supplies the video link and local thumbnail; [Sprung Studios' project page](https://www.sprungstudios.com/fastfurious-takedown/) corroborates the SMG Studio / Universal project. The displayed year is the game's 2018 release, not a claimed employment period.
 
 ## Publications and research citations
 
