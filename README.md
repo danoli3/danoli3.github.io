@@ -18,11 +18,11 @@ GitHub Pages serves the root of the `main` branch. `.nojekyll` keeps the site bu
 
 ## Content sources
 
-The initial page uses public project descriptions and credits. Employment dates and unverified job titles are intentionally omitted; this is a selection of experience rather than a complete employment history.
+The page combines public project descriptions and credits with owner-provided 2026 CVs. Career history, professional roles, education and awards were expanded from those supplied documents. Years are used where the CV versions differ on individual start or end months. Home addresses, phone numbers and referee contact information are excluded from the public site; source documents are not stored in the repository.
 
 - [GitHub profile](https://github.com/danoli3): name, location, engineering focus, previous studios and UTS background.
 - [Super Hexagon iOS development, 2015](https://distractionware.com/blog/2015/11/super-hexagon-update-on-iphone/) and [Android update, 2021](https://distractionware.com/blog/2021/12/super-hexagon-is-back-on-android/): Terry Cavanagh's development posts crediting Dan's work.
-- [Rumu credits](https://www.mobygames.com/game/99711/rumu/credits/windows/): Senior Game Programmer credit.
+- [Rumu credits](https://www.mobygames.com/game/99711/rumu/credits/windows/): published Senior Game Programmer credit; Dan's supplied CVs identify his lead programming responsibilities.
 - [One4Seven profile](https://bandcamp.com/one4seven): self-reported work on Death Squared. Specific contribution and dates should be expanded with Dan's own details.
 - [LinkedIn](https://au.linkedin.com/in/dan-rosser-31b37926): Freddy's Pass Off and CopyMe project descriptions.
 - [BeFaced publication](https://opus.lib.uts.edu.au/handle/10453/41917): research authorship.
@@ -44,4 +44,4 @@ Verified later citations:
 - [Corneanu et al., IEEE TPAMI (2016)](https://doi.org/10.1109/TPAMI.2016.2515606), reference 46: cites the 2012 player-experience feasibility study. [Author copy](https://cipriancorneanu.github.io/files/corneanu2016survey.pdf).
 - [De Belen et al., Translational Psychiatry (2020)](https://doi.org/10.1038/s41398-020-01015-w), references 54–55: cites the two CHI 2014 CopyMe papers.
 
-The section describes the intended machine-learning data collection role of BeFaced and documented citation relationships. It does not claim that a named later model was trained on the dataset. No citation totals are displayed because coverage varies by index and changes over time.
+The section describes the intended machine-learning data collection role of BeFaced, Dan's own OpenCV/model-training work as described in his CVs, and documented citation relationships. It does not claim that a named later model was trained on the dataset. No citation totals are displayed because coverage varies by index and changes over time.
